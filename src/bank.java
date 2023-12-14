@@ -23,9 +23,9 @@ public class bank {
                     System.out.println("");
                     System.out.println("Enter Choice");
                     System.out.println("1.Check Balance");
-                    System.out.println("2.Deposit Balance");
-                    System.out.println("3.Withdrawl Balance");
-                    System.out.println("4.Transfer Balance");
+                    System.out.println("2.Deposit Amount");
+                    System.out.println("3.Withdrawl Amount");
+                    System.out.println("4.Transfer Amount");
                     System.out.println("5.Change Pin");
                     System.out.println("6.Log Out");
                     ch = sc.nextInt();
